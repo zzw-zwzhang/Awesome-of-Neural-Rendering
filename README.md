@@ -28,6 +28,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Awesome Blogs](#awesome-blogs)
 
+- [Datasets](#datasets)
+
 
 
 ### Type of Neural-Rendering
