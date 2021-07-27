@@ -30,6 +30,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Datasets](#datasets)
 
+- [Tools](#tools)
+
 
 
 ### Type of Neural-Rendering
@@ -68,3 +70,24 @@ Please feel free to pull requests or open an issue to add papers.
 | []() | CVPR | ``     | [PyTorch(Author)]()   |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |
+
+
+
+## Awesome Surveys
+- []() and []()
+
+
+
+## Awesome Blogs
+- []() and []()
+
+
+
+## Datasets
+- []() and []()
+
+
+
+## Tools
+- [Mitsuba 2](http://www.mitsuba-renderer.org/)
+- 
