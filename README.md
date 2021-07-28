@@ -131,7 +131,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [LLFF](https://github.com/Fyusion/LLFF): [paper](https://arxiv.org/pdf/1905.00889.pdf), [data](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG19/lffusion/)
 - [NeRF](https://github.com/bmild/nerf): [paper](https://arxiv.org/pdf/2003.08934.pdf), [data](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
 - [NLR](http://www.computationalimaging.org/publications/nlr/): [paper](https://arxiv.org/pdf/2103.11571.pdf), [data](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view)
-- [](): [paper](), [data]()
+- [pixelNeRF](https://alexyu.net/pixelnerf/): [paper](https://arxiv.org/pdf/2012.02190.pdf), [data](https://drive.google.com/drive/folders/1PsT3uKwqHHD2bEEHkIXB99AlIjtmrEiR)
 - [](): [paper](), [data]()
 - [](): [paper](), [data]()
 - [](): [paper](), [data]()
