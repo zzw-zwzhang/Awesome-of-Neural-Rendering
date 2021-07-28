@@ -73,6 +73,43 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 
+
+### 2019
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| [Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines](https://arxiv.org/pdf/1905.00889.pdf) | SIGGRAPH | `Other` | [PyTorch(Author)](https://github.com/Fyusion/LLFF)   |  `691`  |
+| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+
+
+### 2018
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+
+
+
+### 2017
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+
+
+
+### 2016
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+
+
+
+
 ## Awesome Surveys
 - []() and []()
 
@@ -89,6 +126,15 @@ Please feel free to pull requests or open an issue to add papers.
 - [SLF]: [paper](https://cseweb.ucsd.edu/~ravir/6160/papers/p287-wood.pdf), [data]
 - [NeRF](https://github.com/bmild/nerf): [paper](https://arxiv.org/pdf/2003.08934.pdf), [data](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
 - [Google Scanned Objects](https://app.ignitionrobotics.org/GoogleResearch/fuel/collections/Google%20Scanned%20Objects): [paper](https://arxiv.org/pdf/2102.13090.pdf), [data](https://drive.google.com/drive/folders/1qfcPffMy8-rmZjbapLAtdrKwg3AV-NJe)
+- [RealEstate10K](https://github.com/google/stereo-magnification): [paper](https://arxiv.org/pdf/1805.09817.pdf), [data](https://google.github.io/realestate10k/)
+- [Spaces](https://github.com/augmentedperception/spaces_dataset): [paper](https://arxiv.org/pdf/1906.07316.pdf), [data](https://augmentedperception.github.io/deepview/)
+- [LLFF](https://github.com/Fyusion/LLFF): [paper](https://arxiv.org/pdf/1905.00889.pdf), [data](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG19/lffusion/)
+- [](): [paper](), [data]()
+- [](): [paper](), [data]()
+- [](): [paper](), [data]()
+- [](): [paper](), [data]()
+- [](): [paper](), [data]()
+- [](): [paper](), [data]()
 
 
 
