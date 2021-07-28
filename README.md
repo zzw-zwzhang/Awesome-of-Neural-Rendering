@@ -62,7 +62,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/pdf/1912.07372.pdf) | CVPR | `Other` | [PyTorch(Author)](https://github.com/autonomousvision/differentiable_volumetric_rendering)   |  `33`  |
+| [Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/pdf/1912.07372.pdf) | CVPR | `Other` | [PyTorch(Author)](https://github.com/autonomousvision/differentiable_volumetric_rendering)   |  `471`  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |
