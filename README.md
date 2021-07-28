@@ -129,6 +129,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [RealEstate10K](https://github.com/google/stereo-magnification): [paper](https://arxiv.org/pdf/1805.09817.pdf), [data](https://google.github.io/realestate10k/)
 - [Spaces](https://github.com/augmentedperception/spaces_dataset): [paper](https://arxiv.org/pdf/1906.07316.pdf), [data](https://augmentedperception.github.io/deepview/)
 - [LLFF](https://github.com/Fyusion/LLFF): [paper](https://arxiv.org/pdf/1905.00889.pdf), [data](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG19/lffusion/)
+- [NeRF](https://github.com/bmild/nerf): [paper](https://arxiv.org/pdf/2003.08934.pdf), [data](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
 - [NLR](http://www.computationalimaging.org/publications/nlr/): [paper](https://arxiv.org/pdf/2103.11571.pdf), [data](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view)
 - [](): [paper](), [data]()
 - [](): [paper](), [data]()
