@@ -50,7 +50,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/pdf/2102.13090.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/googleinterns/IBRNet)   |  `126`  |
 | [Neural Lumigraph Rendering](https://arxiv.org/pdf/2103.11571.pdf) | CVPR | `Other`     | [PyTorch(Author)](http://www.computationalimaging.org/publications/nlr/)   |  ``  |
 | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/pdf/2012.01714.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/computational-imaging/automatic-integration)   |  `80`  |
-| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/pdf/2012.02190.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/sxyu/pixel-nerf)   |  `456`  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
