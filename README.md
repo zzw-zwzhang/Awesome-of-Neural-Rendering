@@ -85,7 +85,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Datasets
 - [DeepVoxels](https://github.com/vsitzmann/deepvoxels): [paper](https://arxiv.org/pdf/1812.01024.pdf), [data](https://drive.google.com/drive/folders/1ScsRlnzy9Bd_n-xw83SP-0t548v63mPH)
-
+- [DTU](): [paper](https://roboimagedata2.compute.dtu.dk/data/text/multiViewCVPR2014.pdf), [data](http://roboimagedata.compute.dtu.dk/?page_id=36)
 
 
 ## Tools
