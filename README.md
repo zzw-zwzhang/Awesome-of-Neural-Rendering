@@ -88,7 +88,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [DTU](): [paper](https://roboimagedata2.compute.dtu.dk/data/text/multiViewCVPR2014.pdf), [data](http://roboimagedata.compute.dtu.dk/?page_id=36), [other](https://www.dropbox.com/sh/5tam07ai8ch90pf/AADniBT3dmAexvm_J1oL__uoa)
 - [SLF]: [paper](https://cseweb.ucsd.edu/~ravir/6160/papers/p287-wood.pdf), [data]
 - [NeRF](https://github.com/bmild/nerf): [paper](https://arxiv.org/pdf/2003.08934.pdf), [data](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
-- [Google Scanned Objects](https://app.ignitionrobotics.org/GoogleResearch/fuel/collections/Google%20Scanned%20Objects)
+- [Google Scanned Objects](https://app.ignitionrobotics.org/GoogleResearch/fuel/collections/Google%20Scanned%20Objects): [paper](https://arxiv.org/pdf/2102.13090.pdf), [data](https://drive.google.com/drive/folders/1qfcPffMy8-rmZjbapLAtdrKwg3AV-NJe)
 
 
 
