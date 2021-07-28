@@ -111,7 +111,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Awesome Surveys
-- []() and []()
+- [awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering)
 
 
 
