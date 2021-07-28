@@ -90,4 +90,4 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Tools
 - [Mitsuba 2](http://www.mitsuba-renderer.org/)
-- 
+- [Remove image background](https://www.remove.bg/zh)
