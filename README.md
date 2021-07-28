@@ -84,7 +84,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Datasets
-- [DeepVoxels](https://github.com/vsitzmann/deepvoxels), [Paper](https://arxiv.org/pdf/1812.01024.pdf), [data](https://drive.google.com/drive/folders/1ScsRlnzy9Bd_n-xw83SP-0t548v63mPH)
+- [DeepVoxels](https://github.com/vsitzmann/deepvoxels): [paper](https://arxiv.org/pdf/1812.01024.pdf), [data](https://drive.google.com/drive/folders/1ScsRlnzy9Bd_n-xw83SP-0t548v63mPH)
 
 
 
