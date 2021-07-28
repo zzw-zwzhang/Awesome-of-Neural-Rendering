@@ -69,7 +69,7 @@ Please feel free to pull requests or open an issue to add papers.
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  `471`  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  `471`  |
 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) | ECCVO | ``     | [PyTorch(Author)](https://github.com/bmild/nerf)   |  `3.6k`  |
-| [Multiview neuralsurface reconstruction with implicit lighting and material](https://arxiv.org/pdf/2003.09852.pdf) | NeurIPS | ``     | [PyTorch(Author)](https://github.com/lioryariv/idr)   |  `223`  |
+| [Multiview Neural Surface Reconstruction with Implicit Lighting and Material](https://arxiv.org/pdf/2003.09852.pdf) | NeurIPS | ``     | [PyTorch(Author)](https://github.com/lioryariv/idr)   |  `223`  |
 
 
 
