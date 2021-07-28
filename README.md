@@ -47,8 +47,8 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [PhySG: Inverse Rendering with Spherical Gaussians forPhysics-based Material Editing and Relighting](https://arxiv.org/pdf/2104.00674.pdf) | CVPR | `Other` | [PyTorch(Author)](https://github.com/Kai-46/PhySG)   |  `33`  |
-| [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/pdf/2102.13090.pdf) | CVPR | ``     | [PyTorch(Author)](https://github.com/googleinterns/IBRNet)   |  `126`  |
-| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/pdf/2102.13090.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/googleinterns/IBRNet)   |  `126`  |
+| [Neural Lumigraph Rendering](https://arxiv.org/pdf/2103.11571.pdf) | CVPR | `Other`     | [PyTorch(Author)](http://www.computationalimaging.org/publications/nlr/)   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
@@ -129,7 +129,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [RealEstate10K](https://github.com/google/stereo-magnification): [paper](https://arxiv.org/pdf/1805.09817.pdf), [data](https://google.github.io/realestate10k/)
 - [Spaces](https://github.com/augmentedperception/spaces_dataset): [paper](https://arxiv.org/pdf/1906.07316.pdf), [data](https://augmentedperception.github.io/deepview/)
 - [LLFF](https://github.com/Fyusion/LLFF): [paper](https://arxiv.org/pdf/1905.00889.pdf), [data](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG19/lffusion/)
-- [](): [paper](), [data]()
+- [NLR](http://www.computationalimaging.org/publications/nlr/): [paper](https://arxiv.org/pdf/2103.11571.pdf), [data](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view)
 - [](): [paper](), [data]()
 - [](): [paper](), [data]()
 - [](): [paper](), [data]()
