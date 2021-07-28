@@ -121,7 +121,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Datasets
-- [DeepVoxels](https://github.com/vsitzmann/deepvoxels): [paper](https://arxiv.org/pdf/1812.01024.pdf), [data](https://drive.google.com/drive/folders/1ScsRlnzy9Bd_n-xw83SP-0t548v63mPH)
+- [DeepVoxels](https://github.com/vsitzmann/deepvoxels): [paper](https://arxiv.org/pdf/1812.01024.pdf), [data](https://drive.google.com/drive/folders/1ScsRlnzy9Bd_n-xw83SP-0t548v63mPH), [other](https://drive.google.com/file/d/1lUvJWB6oFtT8EQ_NzBrXnmi25BufxRfl/view)
 - [DTU](): [paper](https://roboimagedata2.compute.dtu.dk/data/text/multiViewCVPR2014.pdf), [data](http://roboimagedata.compute.dtu.dk/?page_id=36), [other](https://www.dropbox.com/sh/5tam07ai8ch90pf/AADniBT3dmAexvm_J1oL__uoa)
 - [SLF]: [paper](https://cseweb.ucsd.edu/~ravir/6160/papers/p287-wood.pdf), [data]
 - [NeRF](https://github.com/bmild/nerf): [paper](https://arxiv.org/pdf/2003.08934.pdf), [data](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)
