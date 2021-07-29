@@ -112,7 +112,7 @@ Please feel free to pull requests or open an issue to add papers.
 ### Arxiv
 
 | Title    | Type     | Code     | Star     |
-|:-------- |:--------:|:--------:|:--------:|:--------:|
+|:-------- |:--------:|:--------:|:--------:|
 | [Neural Rays for Occlusion-aware Image-based Rendering](https://arxiv.org/pdf/2107.13421.pdf) | `Other` | [PyTorch(Author)](https://github.com/liuyuan-pal/NeuRay)   |  `13`  |
 
 
