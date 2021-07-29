@@ -22,7 +22,7 @@ Please feel free to pull requests or open an issue to add papers.
   - [2017 Venues](#2017)
   - [2016 Venues](#2016)
   - [Previous Venues](#2010-2014)
-  - [arXiv](#arxiv)
+  - [Arxiv](#arxiv)
  
 - [Awesome Surveys](#awesome-surveys)
 
@@ -107,6 +107,13 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
 
+
+
+### Arxiv
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| [Neural Rays for Occlusion-aware Image-based Rendering](https://arxiv.org/pdf/2107.13421.pdf) | `Other` | [PyTorch(Author)](https://github.com/liuyuan-pal/NeuRay)   |  `13`  |
 
 
 
