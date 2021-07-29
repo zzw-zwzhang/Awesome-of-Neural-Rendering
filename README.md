@@ -52,7 +52,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/pdf/2012.01714.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/computational-imaging/automatic-integration)   |  `80`  |
 | [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/pdf/2012.02190.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/sxyu/pixel-nerf)   |  `456`  |
 | [StereoRadiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/pdf/2104.06935.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/jchibane/srf)   |  `32`  |
-| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2011.13961.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/albertpumarola/D-NeRF)   |  `61`  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 
 
