@@ -29,7 +29,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [Awesome Blogs](#awesome-blogs)
 
 - [Videos](#videos)
--
+
 - [Datasets](#datasets)
 
 - [Tools](#tools)
