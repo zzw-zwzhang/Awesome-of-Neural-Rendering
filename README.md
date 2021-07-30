@@ -28,6 +28,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Awesome Blogs](#awesome-blogs)
 
+- [Videos](#videos)
+-
 - [Datasets](#datasets)
 
 - [Tools](#tools)
@@ -125,6 +127,9 @@ Please feel free to pull requests or open an issue to add papers.
 ## Awesome Blogs
 - [NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
 
+
+## Videos
+- [Jon Barron - Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=HfJpQCBTqZs)
 
 
 ## Datasets
