@@ -123,7 +123,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Awesome Blogs
-- []()
+- [NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
 
 
 
