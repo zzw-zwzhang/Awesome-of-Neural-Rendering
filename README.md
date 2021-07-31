@@ -128,6 +128,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Blogs
 - [NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
+- [pixelNeRF: Neural Radiance Fields from One or Few Images](https://github.com/jianfeiguo/jianfeiguo.github.io/blob/5811fdcb2a426c4786020b8d1918ba59e8dcf924/posts/paper_reading/2021cvpr_yu_pixelnerf/index.md)
 
 
 ## Videos
