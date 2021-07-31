@@ -83,7 +83,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines](https://arxiv.org/pdf/1905.00889.pdf) | SIGGRAPH | `Other` | [PyTorch(Author)](https://github.com/Fyusion/LLFF)   |  `691`  |
-| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+| [Geometry-Aware Neural Rendering](https://arxiv.org/pdf/1911.04554.pdf) | NeurIPS | `Other` | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
@@ -128,7 +128,6 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Blogs
 - [NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
-- [pixelNeRF: Neural Radiance Fields from One or Few Images](https://github.com/jianfeiguo/jianfeiguo.github.io/blob/5811fdcb2a426c4786020b8d1918ba59e8dcf924/posts/paper_reading/2021cvpr_yu_pixelnerf/index.md)
 
 
 ## Videos
