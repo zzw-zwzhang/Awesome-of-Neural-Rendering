@@ -56,7 +56,10 @@ Please feel free to pull requests or open an issue to add papers.
 | [StereoRadiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/pdf/2104.06935.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/jchibane/srf)   |  `32`  |
 | [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2011.13961.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/albertpumarola/D-NeRF)   |  `61`  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
-
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| [NeRFactor: Neural Factorization of Shape and Reflectance
+Under an Unknown Illumination](https://arxiv.org/pdf/2106.01970.pdf) | SIGGRAPH Asia | `Other`     | [PyTorch(Author)](https://github.com/google/nerfactor)   |  `104`  |
 
 
 
