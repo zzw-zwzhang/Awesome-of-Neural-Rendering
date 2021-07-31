@@ -66,6 +66,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+| [Multiview Neural Surface Reconstruction with Implicit Lighting and Material](https://arxiv.org/pdf/2003.09852.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/lioryariv/idr)   |  `223`  |
 | [Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/pdf/1912.07372.pdf) | CVPR | `Other` | [PyTorch(Author)](https://github.com/autonomousvision/differentiable_volumetric_rendering)   |  `471`  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
@@ -73,7 +74,6 @@ Please feel free to pull requests or open an issue to add papers.
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) | ECCVO | `Other`     | [TensorFlow(Author)](https://github.com/bmild/nerf) [PyTorch(3rd)](https://github.com/yenchenlin/nerf-pytorch) [PyTorch(3rd)](https://github.com/krrish94/nerf-pytorch)   |  `3.6k/1.1k/429`  |
-| [Multiview Neural Surface Reconstruction with Implicit Lighting and Material](https://arxiv.org/pdf/2003.09852.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/lioryariv/idr)   |  `223`  |
 
 
 
