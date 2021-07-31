@@ -58,8 +58,7 @@ Please feel free to pull requests or open an issue to add papers.
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
-| [NeRFactor: Neural Factorization of Shape and Reflectance
-Under an Unknown Illumination](https://arxiv.org/pdf/2106.01970.pdf) | SIGGRAPH Asia | `Other`     | [PyTorch(Author)](https://github.com/google/nerfactor)   |  `104`  |
+| [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/pdf/2106.01970.pdf) | SIGGRAPH Asia | `Other`     | [PyTorch(Author)](https://github.com/google/nerfactor)   |  `104`  |
 
 
 
