@@ -118,7 +118,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Neural Rays for Occlusion-aware Image-based Rendering](https://arxiv.org/pdf/2107.13421.pdf) | 2021.07.28 | `Other`     | [PyTorch(Author)](https://github.com/liuyuan-pal/NeuRay)   |  `13`  |
-| [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/pdf/2106.12052.pdf) | 2021.06.22 | ``     | -   |   |
+| [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/pdf/2106.12052.pdf) | 2021.06.22 | `Other`     | -   |   |
 | []() | 2021.08.10 | ``     | -   |   |
 | []() | 2021.08.10 | ``     | -   |   |
 | []() | 2021.08.10 | ``     | -   |   |
