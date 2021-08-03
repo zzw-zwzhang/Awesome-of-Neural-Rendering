@@ -67,8 +67,8 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Multiview Neural Surface Reconstruction with Implicit Lighting and Material](https://arxiv.org/pdf/2003.09852.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/lioryariv/idr)   |  `223`  |
+| [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://arxiv.org/pdf/2007.02442.pdf) | NeurIPS | `Other`     | [PyTorch(Author)](https://github.com/autonomousvision/graf)   |  `183`  |
 | [Differentiable Volumetric Rendering: Learning Implicit 3D Representations without 3D Supervision](https://arxiv.org/pdf/1912.07372.pdf) | CVPR | `Other` | [PyTorch(Author)](https://github.com/autonomousvision/differentiable_volumetric_rendering)   |  `471`  |
-| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
