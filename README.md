@@ -140,6 +140,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
 - [Real-Time Volume Graphics](https://doc.lagout.org/science/0_Computer%20Science/Real-Time%20Volume%20Graphics.pdf)
 - [光线投射算法原理、改进与实现](https://zhuanlan.zhihu.com/p/338223153?utm_source=qq&utm_medium=social&utm_oi=1315733206151278592)
+- [体积渲染](https://toposcat.top/cn/2021/01/17/Volume%20Rendering/)
 
 
 ## Videos
