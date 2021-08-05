@@ -119,7 +119,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Neural Rays for Occlusion-aware Image-based Rendering](https://arxiv.org/pdf/2107.13421.pdf) | 2021.07.28 | `Other`     | [PyTorch(Author)](https://github.com/liuyuan-pal/NeuRay)   |  `13`  |
 | [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/pdf/2106.12052.pdf) | 2021.06.22 | `Other`     | -   |   |
-| []() | 2021.08.10 | ``     | -   |   |
+| [Neural Ray-Tracing: Learning Surfaces and Reflectance for Relighting and View Synthesis](https://arxiv.org/pdf/2104.13562.pdf) | 2021.04.28 | `Other`     | [PyTorch(Author)](https://github.com/princeton-computational-imaging/neural_raytracing)   |  `7`  |
 | []() | 2021.08.10 | ``     | -   |   |
 | []() | 2021.08.10 | ``     | -   |   |
 
