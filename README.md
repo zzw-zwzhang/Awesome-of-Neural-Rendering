@@ -73,7 +73,7 @@ Please feel free to pull requests or open an issue to add papers.
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
-| [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) | ECCVO | `Other`     | [TensorFlow(Author)](https://github.com/bmild/nerf) [PyTorch(3rd)](https://github.com/yenchenlin/nerf-pytorch) [PyTorch(3rd)](https://github.com/krrish94/nerf-pytorch)   |  `3.6k/1.1k/429`  |
+| [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) | ECCV-Oral | `Other`     | [TensorFlow(Author)](https://github.com/bmild/nerf) [PyTorch(3rd)](https://github.com/yenchenlin/nerf-pytorch) [PyTorch(3rd)](https://github.com/krrish94/nerf-pytorch)   |  `3.6k/1.1k/429`  |
 
 
 
@@ -84,7 +84,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines](https://arxiv.org/pdf/1905.00889.pdf) | SIGGRAPH | `Other` | [PyTorch(Author)](https://github.com/Fyusion/LLFF)   |  `691`  |
 | [Geometry-Aware Neural Rendering](https://arxiv.org/pdf/1911.04554.pdf) | NeurIPS | `Other` | [PyTorch(Author)]()   |  ``  |
-| []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
+| [Scene Representation Networks: Continuous3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) | NeurIPS-Oral | `Other` | [PyTorch(Author)](https://github.com/vsitzmann/scene-representation-networks)   |  `287`  |
 | []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | `Other` | [PyTorch(Author)]()   |  ``  |
 
