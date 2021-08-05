@@ -145,6 +145,7 @@ Please feel free to pull requests or open an issue to add papers.
 ## Videos
 - [Jon Barron - Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=HfJpQCBTqZs)
 - [Matthew Tancik: Neural Radiance Fields for View Synthesis](https://www.youtube.com/watch?v=dPWLybp4LL0)
+- [Neural Rendering (CVPR 2020)](https://www.youtube.com/channel/UCg9VEC8m-X1Fw6EN6K-nNvA)
 
 
 ## Datasets
