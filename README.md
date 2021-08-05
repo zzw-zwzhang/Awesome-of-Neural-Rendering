@@ -131,6 +131,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Blogs
 - [NeRF Explosion 2020](https://dellaert.github.io/NeRF/)
+- [Real-Time Volume Graphics](https://doc.lagout.org/science/0_Computer%20Science/Real-Time%20Volume%20Graphics.pdf)
 
 
 ## Videos
