@@ -57,7 +57,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2011.13961.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/albertpumarola/D-NeRF)   |  `61`  |
 | [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://arxiv.org/pdf/2012.03927.pdf) | CVPR | `Other`     | [PyTorch(Author)]()   |  ``  |
 | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/pdf/2012.01714.pdf) | CVPR | `Other`     | [PyTorch(Author)]()   |  ``  |
-| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| [GIRAFFE: Representing Scenes asCompositional Generative Neural Feature Fields](https://arxiv.org/pdf/2011.12100.pdf) | CVPR-BestPaper | `Other`     | [PyTorch(Author)](https://github.com/autonomousvision/giraffe)   |  `609`  |
 | [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/pdf/2106.01970.pdf) | SIGGRAPH Asia | `Other`     | [PyTorch(Author)](https://github.com/google/nerfactor)   |  `104`  |
 
 
