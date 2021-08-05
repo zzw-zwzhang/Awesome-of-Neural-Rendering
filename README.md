@@ -55,7 +55,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/pdf/2012.02190.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/sxyu/pixel-nerf)   |  `456`  |
 | [StereoRadiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/pdf/2104.06935.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/jchibane/srf)   |  `32`  |
 | [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2011.13961.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/albertpumarola/D-NeRF)   |  `61`  |
-| []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
+| [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://arxiv.org/pdf/2012.03927.pdf) | CVPR | `Other`     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/pdf/2106.01970.pdf) | SIGGRAPH Asia | `Other`     | [PyTorch(Author)](https://github.com/google/nerfactor)   |  `104`  |
