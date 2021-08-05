@@ -113,6 +113,13 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 
+### Previous Venues
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+| [Ray-casting point-in-polyhedron test](https://old.cescg.org/CESCG-2012/papers/Horvat-Ray-casting_point-in-polyhedron_test.pdf) | 2012-CESCG | `Other`     | -   |   |
+
+
 ### Arxiv
 
 | Title    | Date     | Type     | Code     | Star     |
