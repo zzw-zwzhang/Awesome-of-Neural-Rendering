@@ -43,11 +43,16 @@ Please feel free to pull requests or open an issue to add papers.
 | Explanation | View Synthesis |  |  |  |  |  | other types |
 
 
-
+GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 ### 2021
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+| []() | ICCV | `Other` | [PyTorch(Author)]()   |  ``  |
+| []() | ICCV | `Other` | [PyTorch(Author)]()   |  ``  |
+| []() | ICCV | `Other` | [PyTorch(Author)]()   |  ``  |
+| []() | ICCV | `Other` | [PyTorch(Author)]()   |  ``  |
+| [GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/pdf/2010.04595.pdf) | ICCV | `Other` | [PyTorch(Author)](https://github.com/alextrevithick/GRF)   |  `128`  |
 | [PhySG: Inverse Rendering with Spherical Gaussians forPhysics-based Material Editing and Relighting](https://arxiv.org/pdf/2104.00674.pdf) | CVPR | `Other` | [PyTorch(Author)](https://github.com/Kai-46/PhySG)   |  `33`  |
 | [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/pdf/2102.13090.pdf) | CVPR | `View`     | [PyTorch(Author)](https://github.com/googleinterns/IBRNet)   |  `126`  |
 | [Neural Lumigraph Rendering](https://arxiv.org/pdf/2103.11571.pdf) | CVPR | `Other`     | [PyTorch(Author)](http://www.computationalimaging.org/publications/nlr/)   |  ``  |
