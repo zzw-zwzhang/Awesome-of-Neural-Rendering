@@ -38,9 +38,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Neural-Rendering
 
-| Type        | ``          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `View Synthesis`          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation |  |  |  |  |  |  | other types |
+| Explanation | View |  |  |  |  |  | other types |
 
 
 
@@ -49,11 +49,11 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [PhySG: Inverse Rendering with Spherical Gaussians forPhysics-based Material Editing and Relighting](https://arxiv.org/pdf/2104.00674.pdf) | CVPR | `Other` | [PyTorch(Author)](https://github.com/Kai-46/PhySG)   |  `33`  |
-| [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/pdf/2102.13090.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/googleinterns/IBRNet)   |  `126`  |
+| [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/pdf/2102.13090.pdf) | CVPR | `View`     | [PyTorch(Author)](https://github.com/googleinterns/IBRNet)   |  `126`  |
 | [Neural Lumigraph Rendering](https://arxiv.org/pdf/2103.11571.pdf) | CVPR | `Other`     | [PyTorch(Author)](http://www.computationalimaging.org/publications/nlr/)   |  ``  |
 | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/pdf/2012.01714.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/computational-imaging/automatic-integration)   |  `80`  |
-| [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/pdf/2012.02190.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/sxyu/pixel-nerf)   |  `456`  |
-| [StereoRadiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/pdf/2104.06935.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/jchibane/srf)   |  `32`  |
+| [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/pdf/2012.02190.pdf) | CVPR | `View`     | [PyTorch(Author)](https://github.com/sxyu/pixel-nerf)   |  `456`  |
+| [StereoRadiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/pdf/2104.06935.pdf) | CVPR | `View`     | [PyTorch(Author)](https://github.com/jchibane/srf)   |  `32`  |
 | [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2011.13961.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/albertpumarola/D-NeRF)   |  `61`  |
 | [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://arxiv.org/pdf/2012.03927.pdf) | CVPR | `Other`     | [PyTorch(Author)]()   |  ``  |
 | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/pdf/2012.01714.pdf) | CVPR | `Other`     | [PyTorch(Author)]()   |  ``  |
@@ -73,7 +73,7 @@ Please feel free to pull requests or open an issue to add papers.
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
-| [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) | ECCV-Oral | `Other`     | [TensorFlow(Author)](https://github.com/bmild/nerf) [PyTorch(3rd)](https://github.com/yenchenlin/nerf-pytorch) [PyTorch(3rd)](https://github.com/krrish94/nerf-pytorch)   |  `3.6k/1.1k/429`  |
+| [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) | ECCV-Oral | `View`     | [TensorFlow(Author)](https://github.com/bmild/nerf) [PyTorch(3rd)](https://github.com/yenchenlin/nerf-pytorch) [PyTorch(3rd)](https://github.com/krrish94/nerf-pytorch)   |  `3.6k/1.1k/429`  |
 
 
 
@@ -82,7 +82,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines](https://arxiv.org/pdf/1905.00889.pdf) | SIGGRAPH | `Other` | [PyTorch(Author)](https://github.com/Fyusion/LLFF)   |  `691`  |
+| [Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines](https://arxiv.org/pdf/1905.00889.pdf) | SIGGRAPH | `View` | [PyTorch(Author)](https://github.com/Fyusion/LLFF)   |  `691`  |
 | [Geometry-Aware Neural Rendering](https://arxiv.org/pdf/1911.04554.pdf) | NeurIPS | `Other` | [PyTorch(Author)]()   |  ``  |
 | [Scene Representation Networks: Continuous3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) | NeurIPS-Oral | `Other` | [PyTorch(Author)](https://github.com/vsitzmann/scene-representation-networks)   |  `287`  |
 | [Monocular Neural Image Based Rendering with Continuous View Control](https://arxiv.org/pdf/1901.01880.pdf) | ICCV | `Other` | [PyTorch(Author)](https://github.com/xuchen-ethz/continuous_view_synthesis)   |  `43`  |
