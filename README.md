@@ -135,6 +135,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering)
 - [awesome-neural-rendering](https://github.com/jafffy/awesome-neural-rendering)
 - [Differentiable Rendering: A Survey](https://arxiv.org/pdf/2006.12057.pdf)
+- [State of the Art on Neural Rendering](https://arxiv.org/pdf/2004.03805.pdf)
 
 
 ## Awesome Blogs
