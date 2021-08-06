@@ -134,6 +134,7 @@ Please feel free to pull requests or open an issue to add papers.
 ## Awesome Surveys
 - [awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering)
 - [awesome-neural-rendering](https://github.com/jafffy/awesome-neural-rendering)
+- [Differentiable Rendering: A Survey](https://arxiv.org/pdf/2006.12057.pdf)
 
 
 ## Awesome Blogs
