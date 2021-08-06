@@ -38,9 +38,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Neural-Rendering
 
-| Type        | `View Synthesis`          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `View`          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation | View |  |  |  |  |  | other types |
+| Explanation | View Synthesis |  |  |  |  |  | other types |
 
 
 
