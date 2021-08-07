@@ -55,6 +55,7 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 | [GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/pdf/2010.04595.pdf) | ICCV | `Other` | [PyTorch(Author)](https://github.com/alextrevithick/GRF)   |  `128`  |
 | [PhySG: Inverse Rendering with Spherical Gaussians forPhysics-based Material Editing and Relighting](https://arxiv.org/pdf/2104.00674.pdf) | CVPR | `Other` | [PyTorch(Author)](https://github.com/Kai-46/PhySG)   |  `33`  |
 | [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/pdf/2102.13090.pdf) | CVPR | `View`     | [PyTorch(Author)](https://github.com/googleinterns/IBRNet)   |  `126`  |
+| [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/pdf/2103.05606.pdf) | CVPR-Oral | `View` | [PyTorch(Author)](https://github.com/nex-mpi/nex-code/)   |  `320`  |
 | [Neural Lumigraph Rendering](https://arxiv.org/pdf/2103.11571.pdf) | CVPR | `Other`     | [PyTorch(Author)](http://www.computationalimaging.org/publications/nlr/)   |  ``  |
 | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/pdf/2012.01714.pdf) | CVPR | `Other`     | [PyTorch(Author)](https://github.com/computational-imaging/automatic-integration)   |  `80`  |
 | [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/pdf/2012.02190.pdf) | CVPR | `View`     | [PyTorch(Author)](https://github.com/sxyu/pixel-nerf)   |  `456`  |
