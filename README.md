@@ -132,10 +132,10 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [NeuLF: Efficient Novel View Synthesis with Neural 4D Light Field](https://arxiv.org/pdf/2105.07112.pdf) | 2021.08.04 | `View`     | -   |   |
 | [Neural Rays for Occlusion-aware Image-based Rendering](https://arxiv.org/pdf/2107.13421.pdf) | 2021.07.28 | `Other`     | [PyTorch(Author)](https://github.com/liuyuan-pal/NeuRay)   |  `13`  |
+| [Fast and Explicit Neural View Synthesis](https://arxiv.org/pdf/2107.05775.pdf) | 2021.07.12 | `View`     | -   |   |
 | [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/pdf/2106.12052.pdf) | 2021.06.22 | `Other`     | -   |   |
 | [Neural Ray-Tracing: Learning Surfaces and Reflectance for Relighting and View Synthesis](https://arxiv.org/pdf/2104.13562.pdf) | 2021.04.28 | `Other`     | [PyTorch(Author)](https://github.com/princeton-computational-imaging/neural_raytracing)   |  `7`  |
 | [Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/pdf/2012.05877.pdf) | 2021.04.01 | `Other`     | -   |   |
-| []() | 2021.08.10 | ``     | -   |   |
 | []() | 2021.08.10 | ``     | -   |   |
 | []() | 2021.08.10 | ``     | -   |   |
 | []() | 2021.08.10 | ``     | -   |   |
