@@ -137,10 +137,10 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 | [Learning to Stylize Novel Views](https://arxiv.org/pdf/2105.13509.pdf) | 2021.05.27 | ``     | -   |   |
 | [Neural Ray-Tracing: Learning Surfaces and Reflectance for Relighting and View Synthesis](https://arxiv.org/pdf/2104.13562.pdf) | 2021.04.28 | `Other`     | [PyTorch(Author)](https://github.com/princeton-computational-imaging/neural_raytracing)   |  `7`  |
 | [Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/pdf/2012.05877.pdf) | 2021.04.01 | `Other`     | -   |   |
-| []() | 2021.08.10 | ``     | -   |   |
-| []() | 2021.08.10 | ``     | -   |   |
-| []() | 2021.08.10 | ``     | -   |   |
-| []() | 2021.08.10 | ``     | -   |   |
+| [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/pdf/2106.01970.pdf) | 2021.01.04 | `Other`     | [PyTorch(Author)](https://github.com/google/nerfactor)   |  `115`  |
+| []() | 2021.08.10 | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | 2021.08.10 | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | 2021.08.10 | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 ## Awesome Surveys
