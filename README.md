@@ -79,7 +79,7 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | CVPR | ``     | [PyTorch(Author)]()   |  ``  |
-| [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) | ECCV-Oral | `View`     | [TensorFlow(Author)](https://github.com/bmild/nerf) [PyTorch(3rd)](https://github.com/yenchenlin/nerf-pytorch) [PyTorch(3rd)](https://github.com/krrish94/nerf-pytorch)   |  `3.6k/1.1k/429`  |
+| [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/pdf/2003.08934.pdf) | ECCV-Oral | `View`     | [TensorFlow(Author)](https://github.com/bmild/nerf) [PyTorch(3rd)](https://github.com/yenchenlin/nerf-pytorch) [PyTorch(3rd)](https://github.com/krrish94/nerf-pytorch) [Jax(3rd)](https://github.com/google-research/google-research/tree/master/jaxnerf)  |  `3.6k/1.1k/429/19.2k`  |
 
 
 
