@@ -89,6 +89,7 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines](https://arxiv.org/pdf/1905.00889.pdf) | SIGGRAPH | `View` | [PyTorch(Author)](https://github.com/Fyusion/LLFF)   |  `691`  |
+| [Deferred Neural Rendering: Image Synthesis using Neural Textures](https://arxiv.org/pdf/1904.12356.pdf) | SIGGRAPH | `Other` | [PyTorch(Author)](https://github.com/SSRSGJYD/NeuralTexture)   |  `123`  |
 | [Geometry-Aware Neural Rendering](https://arxiv.org/pdf/1911.04554.pdf) | NeurIPS | `Other` | [PyTorch(Author)]()   |  ``  |
 | [Scene Representation Networks: Continuous3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) | NeurIPS-Oral | `Other` | [PyTorch(Author)](https://github.com/vsitzmann/scene-representation-networks)   |  `287`  |
 | [Monocular Neural Image Based Rendering with Continuous View Control](https://arxiv.org/pdf/1901.01880.pdf) | ICCV | `Other` | [PyTorch(Author)](https://github.com/xuchen-ethz/continuous_view_synthesis)   |  `43`  |
