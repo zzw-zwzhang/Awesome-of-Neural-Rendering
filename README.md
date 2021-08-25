@@ -151,6 +151,7 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 - [New-View-Synthesis](https://github.com/visonpon/New-View-Synthesis)
 - [Differentiable Rendering: A Survey](https://arxiv.org/pdf/2006.12057.pdf)
 - [State of the Art on Neural Rendering](https://arxiv.org/pdf/2004.03805.pdf)
+- [Neural Volumetric Rendering](https://rosanneliu.com/dlctfs/dlct_210618.pdf)
 
 
 ## Awesome Blogs
