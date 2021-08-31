@@ -168,6 +168,8 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 - [Jon Barron - Understanding and Extending Neural Radiance Fields](https://www.youtube.com/watch?v=HfJpQCBTqZs)
 - [Matthew Tancik: Neural Radiance Fields for View Synthesis](https://www.youtube.com/watch?v=dPWLybp4LL0)
 - [Neural Rendering (CVPR 2020)](https://www.youtube.com/channel/UCg9VEC8m-X1Fw6EN6K-nNvA)
+- [TUM AI Lecture Series - New Methods for Reconstruction and Neural Rendering (Christian Theobalt)](https://www.youtube.com/watch?v=cZYUXHsupCE)
+- [Matthias Niessner - Why Neural Rendering is Super Cool!](https://www.youtube.com/watch?v=-KGZmzP4P1I)
 
 
 ## Datasets
