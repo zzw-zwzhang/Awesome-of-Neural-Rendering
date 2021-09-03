@@ -49,7 +49,7 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() | ICCV | `Other` | [PyTorch(Author)]()   |  ``  |
-| []() | ICCV | `Other` | [PyTorch(Author)]()   |  ``  |
+| [Self-Calibrating Neural Radiance Fields](https://arxiv.org/pdf/2108.13826.pdf) | ICCV | `Other` | [PyTorch(Author)](https://github.com/POSTECH-CVLab/SCNeRF)   |  `72`  |
 | [Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering](https://arxiv.org/pdf/2010.09125.pdf) | ICLR-Oral | `Other` | [PyTorch(Author)]()   |  ``  |
 | [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://arxiv.org/pdf/2103.13415.pdf) | ICCV-Oral | `Other` | [PyTorch(Author)]()   |  ``  |
 | [GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/pdf/2010.04595.pdf) | ICCV | `Other` | [PyTorch(Author)](https://github.com/alextrevithick/GRF)   |  `128`  |
