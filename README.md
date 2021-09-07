@@ -7,7 +7,7 @@ A curated list of neural rendering and related resources.
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2021-08-08
+### :high_brightness: Updated 2021-09-08
 
 
 ## Table of Contents
