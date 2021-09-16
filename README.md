@@ -132,6 +132,7 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [NeuLF: Efficient Novel View Synthesis with Neural 4D Light Field](https://arxiv.org/pdf/2105.07112.pdf) | 2021.08.04 | `View`     | -   |   |
+| [KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://arxiv.org/pdf/2103.13744.pdf) | 2021.08.02 | `Other`     | [PyTorch(Author)](https://github.com/creiser/kilonerf)   |  `169`  |
 | [Neural Rays for Occlusion-aware Image-based Rendering](https://arxiv.org/pdf/2107.13421.pdf) | 2021.07.28 | `Other`     | [PyTorch(Author)](https://github.com/liuyuan-pal/NeuRay)   |  `13`  |
 | [Fast and Explicit Neural View Synthesis](https://arxiv.org/pdf/2107.05775.pdf) | 2021.07.12 | `View`     | -   |   |
 | [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://arxiv.org/pdf/2106.13228.pdf) | 2021.06.24 | `Other`     | [PyTorch(Author)]()   |  ``  |
@@ -142,7 +143,6 @@ GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering
 | [Decomposing 3D Scenes into Objects via Unsupervised Volume Segmentation](https://arxiv.org/pdf/2104.01148.pdf) | 2021.04.02 | `Other`     | [PyTorch(Author)]()   |  ``  |
 | [Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/pdf/2012.05877.pdf) | 2021.04.01 | `Other`     | -   |   |
 | [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/pdf/2106.01970.pdf) | 2021.01.04 | `Other`     | [PyTorch(Author)](https://github.com/google/nerfactor)   |  `115`  |
-| []() | 2021.08.10 | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | 2021.08.10 | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | 2021.08.10 | ``     | [PyTorch(Author)]()   |  ``  |
 
